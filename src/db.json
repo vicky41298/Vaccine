@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "9010637524",
+      "username": "vasudev",
+      "email": "arun@gmail.com",
+      "age": 30,
+      "gender": "Male",
+      "role": "User",
+      "password": "test"
+    },
+    {
+      "id": "80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "username": "hunter",
+      "email": "hunter@eduonix.com",
+      "age": "18",
+      "gender": "Male",
+      "role": "User",
+      "password": "racecar"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "e3cb270d-be34-4db9-9587-311aae2ece6e",
+      "name": "suneel kumar",
+      "email": "suneelkumar@eduonix.com",
+      "age": "18",
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "1234567890",
+      "appointmenttime": "2021-08-01T22:39",
+      "user_id": "80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "bookingtime": "2021-08-01T15:09:54.502Z",
+      "status": "booked"
+    },
+    {
+      "id": "f18fb788-d959-414e-9303-b0f26c48db85",
+      "name": "john",
+      "email": "john@eduonix.com",
+      "age": "20",
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "1234567890",
+      "appointmenttime": "2021-08-02T10:55",
+      "user_id": "80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "bookingtime": "2021-08-01T15:23:47.232Z",
+      "status": "booked"
+    },
+    {
+      "id": "693f2eff-e901-4f1c-bdc9-580c96993ce1",
+      "name": "fausto",
+      "email": "fausto@eduonix.com",
+      "age": "17",
+      "hospital": "CARE HOSPITAL",
+      "vaccine": "Covaxin",
+      "mobile": "1234567890",
+      "appointmenttime": "2021-08-01T10:00",
+      "user_id": "80f9ae99-67bc-45b1-a3b2-c97906ecafac",
+      "bookingtime": "2021-08-01T15:28:56.331Z",
+      "status": "booked"
+    }
+  ]
+}
